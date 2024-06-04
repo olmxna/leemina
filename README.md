@@ -64,3 +64,8 @@
 > ">"를 사용하면 인용이 된다.
 >> 인용 안에 인용문은
 >>> 계속해서 추가 가능하다.
+
+
+레나 이미지
+
+![레나이미지](https://github.com/olmxna/leemina/blob/main/lena.jpg)
